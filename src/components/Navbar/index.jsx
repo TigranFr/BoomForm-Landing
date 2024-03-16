@@ -5,13 +5,14 @@ import Link from 'next/link';
 const Navbar = ({mode}) => {
   return (
     <nav className={style.head}>
-        <div>
+      <div className={style.navbar_wrapper}>
+        <div className={style.logo_box}>
           {mode === "dark" 
-          ? <img src="images/header/logo.png" className={style.img_group}/>
-          : <img src="images/templates/header/Boom-Form2.png" className={style.img_group}/>
+          ? <img src="images/header/logo.png"/>
+          : <img src="images/templates/header/Boom-Form2.png"/>
           }
         </div>
-        <div className={style.nav}>
+        <div className={style.navbar}>
             <Link href="/" className={style.form}>
               My Forms
             </Link>
@@ -28,9 +29,11 @@ const Navbar = ({mode}) => {
               Support
             </Link>         
         </div>
-        <div className={style.log}>
+      </div>
+       
+        <div className={style.login}>
             <p>Log in</p>
-            <button className={style.btn} ><p>Sign Up</p></button>
+            <button className={style.signInBtn} ><p>Sign Up</p></button>
         </div>
     </nav>
   )

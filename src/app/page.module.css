@@ -1,0 +1,25 @@
+.homePage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 1179px;
+  background: linear-gradient(
+      180deg,
+      #150a39 0%,
+      #180d3b 14.61%,
+      #1f1441 27.17%,
+      #2a1f4a 37.88%,
+      #372e56 46.96%,
+      #483f64 54.62%,
+      #5a5273 61.07%,
+      #6e6784 66.53%,
+      #837d96 71.21%,
+      #9893a8 75.32%,
+      #ada9b9 79.08%,
+      #c1beca 82.7%,
+      #d4d2da 86.38%,
+      #e5e3e9 90.35%,
+      #f3f3f5 94.82%,
+      #ffffff 100%
+  );
+}
