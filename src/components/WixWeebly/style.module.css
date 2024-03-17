@@ -1,0 +1,34 @@
+.title_trusted h1{
+    font-family: Quicksand;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+}
+  
+
+  .wixWeebly{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 10px;
+    margin-bottom: 140px;
+}
+
+  .wix_weebly {
+    display: flex;
+    justify-content: space-between;
+    max-width: 419px;
+    width: 100%;
+}
+  
+  .wix_photo {
+    opacity: 0.3;
+}
+  
+  .weebly {
+    opacity: 0.3;
+}
+  

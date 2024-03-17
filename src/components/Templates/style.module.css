@@ -1,0 +1,106 @@
+.template {
+    max-width: 1128px;
+    width: 100%;
+    margin-bottom: 80px;
+}
+  
+  .template_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+  
+.template_wrapper_title {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0.4px;
+    color: #3D3D3F;
+}
+  
+.btn_see_more {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 110px;
+    width:100%;
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #434E5A;
+    border: none;
+    background-color: white;
+}
+  
+  .see_more {
+    /* Your styles for the "See more" text */
+  }
+  
+.teamplate_wrapper_blocks {
+    width: 100%;
+    display: flex;
+    justify-content: space-between ;
+    margin-top: 30px;
+
+}
+  
+  .template_wrapper_block {
+    /* Your styles for each block div */
+  }
+  
+  .templates_background {
+    display: flex;
+    flex-direction: column;
+    max-width: 354px;
+    width: 100%;
+    border: 1px solid #687583;
+    border-radius: 16px;
+    padding-top: 16px;
+    padding-left:16px;
+    position: relative;
+}
+  
+  .contact_us_form_img {
+    /* Your styles for the image */
+  }
+  
+  .title {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+    margin: 10px 0;
+}
+  
+  .textarea {
+    font-family: Quicksand;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #434E5A;
+    margin-bottom: 40px;
+}
+  
+  .text {
+    position: absolute;
+    top: 90.5%;
+    right: -1px;
+    font-family: Quicksand;
+    list-style: none;
+    width: 174px;
+    height: 36px;
+    background-color: #3E1AAB;
+    border-radius: 16px 0 16px 0;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-end;
+}
+  

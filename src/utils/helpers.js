@@ -33,7 +33,7 @@ export const integrate_text = [
 ]
 
 export const  templateBorder = [
-    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "photo/contact.png", text: "Contact Form" },
-    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "photo/contact.png", text: "Contact Form" },
-    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "photo/contact.png", text: "Contact Form" },
+    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "images/home/integrate/contact.png", text: "Contact Form" },
+    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "images/home/integrate/contact.png", text: "Contact Form" },
+    { title: "Contact us", textarea: "Apart from contacting you, your users can send their questions, suggestions or even feedback.", photo: "images/home/integrate/contact.png", text: "Contact Form" },
 ]
