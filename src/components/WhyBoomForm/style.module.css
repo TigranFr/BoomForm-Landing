@@ -1,0 +1,69 @@
+.why_boom_form {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12%;
+    max-width: 1128px;
+    width: 100%;
+  }
+
+  .why_boom_form_wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .title {
+    margin-right: 7%;
+  }
+  
+  .photo_why_boom_form>img {
+    width: 432px;
+    height: 502;
+    order: 1;
+    flex-grow: 0;
+   
+  }
+  
+  .photo_why_boom_form {
+    margin-top: -8%;
+  }
+  
+  .why_boom_fomr_title {
+    margin-top: 45px;
+    width: 500px;
+    height: 50px;
+    line-height: 48px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    font-size: 32px;
+  }
+  
+  .icons_line {
+    width: 530px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+    flex: none;
+    order: 1;
+  }
+  
+  .line {
+    color: rgba(62, 26, 171, 0.4);
+    border-radius: 8px;
+    height: 16px;
+    width: 25px;
+  }

@@ -1,0 +1,25 @@
+.form_name {
+    margin-top: 7%;
+   
+  }
+  
+  .photo{
+   width: 1128px;
+   height: 635px;
+  }
+  
+  .live_chat {
+    display: flex;
+    right: 32px;
+    bottom: 32px;
+    position: fixed;
+    z-index: 100;
+    border: none;
+    padding: 5px;
+    background: #3E1AAB;
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 3.5923e-16px 5.86667px 11.7333px 
+    rgba(50, 50, 50, 0.135), inset -8.78117e-17px -1.43407px 1.43407px 
+    #ECECEC, inset 8.78117e-17px 1.43407px 1.43407px #FFFFFF;
+  }

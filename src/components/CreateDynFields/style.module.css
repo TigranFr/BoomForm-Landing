@@ -1,0 +1,54 @@
+.create_dyn_fields{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    max-width: 1128px;
+    width: 100%;
+}
+
+.create_dyn_fields_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.btn_read_more{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 110px;
+    width:100%;
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #1DCFA9;
+    border: none;
+    background-color: white;
+
+}
+
+.creating_h1{
+    max-width: 548px;
+    width: 100%;
+    font-family: Quicksand;
+    font-weight:700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+}
+
+.radio_text{
+    max-width: 548px;
+    width: 100%;
+    font-family: Quicksand;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.4px;
+    color: #434E5A;
+}
+
